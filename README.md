@@ -11,3 +11,7 @@
   + push
 - pull vs fetch
 - 협업하기
+
+
+
+![아기 고양이](./image/cat1.jpg)
